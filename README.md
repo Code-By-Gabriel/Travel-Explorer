@@ -1,10 +1,5 @@
 # 🧭 Travel Explorer – Next.js Destination Website
 
-![Travel Explorer Screenshot](public/preview.png)
-
-> Discover stunning destinations around the globe with lightning-fast performance, responsive design, and an immersive UI experience.
-
----
 
 ## 📸 Overview
 
